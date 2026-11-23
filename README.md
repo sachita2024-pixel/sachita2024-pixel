@@ -21,7 +21,7 @@
 
 *   [Сайт УК «Острог»](https://github.com/sachita2024-pixel/ostrog-site) — Адаптивный лендинг с модальными окнами, слайдером и анимациями.
 *   [Сайт УК «Азимут»](https://github.com/sachita2024-pixel/azimut-site) — Лендинг с параллакс-эффектом и сложной сеткой.
-*   [Starbucks](https://github.com/sachita2024-pixel/starbucks) — Учебный проект с анимацией.
+*   [Starbucks](https://github.com/твой-логин/starbucks) — **Учебный проект**. Верстка страницы кофейни с акцентом на отработку **CSS Grid** и **плавных CSS-анимаций**. *Адаптив не реализовывался.*
 
 ## 📫 Контакты
 
