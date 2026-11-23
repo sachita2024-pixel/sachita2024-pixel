@@ -1,16 +1,29 @@
 ## Hi there 👋
+# Привет! Я Александра 👋
 
-<!--
-**sachita2024-pixel/sachita2024-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HTML/CSS верстальщик с запалом фронтендера.**
 
-Here are some ideas to get you started:
+Пишу чистый, адаптивный и поддерживаемый код. Верстаю по БЭМ, использую современные CSS-технологии. Сейчас активно изучаю JavaScript, чтобы двигаться дальше в сторону Frontend-разработки.
+## 🛠 Мой стек
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Стек:** HTML · CSS · Flexbox · Grid · Адаптивная верстка · Кроссбраузерность · БЭМ · Git · Figma · Bootstrap · jQuery · Animate.css
+
+**Сейчас изучаю:** JavaScript
+
+**Основное:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+
+## 📁 Мои проекты
+
+*   [Сайт УК «Острог»](https://github.com/sachita2024-pixel/ostrog-site) — Адаптивный лендинг с модальными окнами, слайдером и анимациями.
+*   [Сайт УК «Азимут»](https://github.com/sachita2024-pixel/azimut-site) — Лендинг с параллакс-эффектом и сложной сеткой.
+*   [Starbucks](https://github.com/sachita2024-pixel/starbucks) — Учебный проект с анимацией.
+
+## 📫 Контакты
+
+*   **Email:** [sachita-2014@mail.ru](mailto:sachita-2014@mail.ru)
+*   **Telegram:** [@sachita2015](https://t.me/sachita2015)
